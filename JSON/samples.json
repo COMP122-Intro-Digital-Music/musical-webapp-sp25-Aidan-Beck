@@ -9,9 +9,9 @@
   },
   {
     "name": "CRDN SYNTH",
-    "file": "samples/NEW2_BLUE_CORDIAN_(TATTOO_SONG).wav",
+    "file": "samples/CordianSynth_130bpm.mp3",
     "bpm": "130",
-    "loop": "1m",
+    "loop": "3m",
     "grain": "0.051",
     "overlap": 0.01
   },
