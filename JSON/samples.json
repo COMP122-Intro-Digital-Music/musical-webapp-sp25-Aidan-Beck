@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "NLGHT SYNTH",
+    "file": "samples/audiomass-output_(4).mp3",
+    "bpm": "130",
+    "loop": "1m",
+    "grain": "0.061",
+    "overlap": 0.01
+  },
+  {
+    "name": "CRDN SYNTH",
+    "file": "samples/NEW2_BLUE_CORDIAN_(TATTOO_SONG).wav",
+    "bpm": "130",
+    "loop": "1m",
+    "grain": "0.051",
+    "overlap": 0.01
+  },
+  {
+    "name": "DRUMS",
+    "file": "samples/temper_drum_track.wav",
+    "bpm": "130",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
